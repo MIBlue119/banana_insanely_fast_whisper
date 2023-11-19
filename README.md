@@ -1,7 +1,7 @@
 # Banana Insanely Fast Whisper
 
 This is a repo try to deploy a whisper node in a banana serveless GPU
-
+We try to bulid a whisper node with GPU support, and deploy it in a banana serveless GPU.
 - [Banana Serverless GPU](https://www.banana.dev): A serverless GPU platform for deep learning and AI.
 
 

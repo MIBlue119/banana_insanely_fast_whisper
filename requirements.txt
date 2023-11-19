@@ -2,6 +2,8 @@ sanic==22.6.2
 torch
 torchvision
 torchaudio
+packaging
+ninja
 git+https://github.com/huggingface/transformers
 accelerate
 optimum

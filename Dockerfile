@@ -1,5 +1,5 @@
 # Must use a Cuda version 11+
-FROM pytorch/pytorch:1.11.0-cuda11.3-cudnn8-runtime
+FROM pytorch/pytorch:2.1.1-cuda12.1-cudnn8-runtime
 
 ARG HUGGING_FACE_HUB_WRITE_TOKEN
 ENV HUGGING_FACE_HUB_WRITE_TOKEN=$HUGGING_FACE_HUB_WRITE_TOKEN
